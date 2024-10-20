@@ -143,7 +143,7 @@ This plot shows:
 - Vertical label signal showing blinks, saccades, and fixations over time
 
 ### 2. Horizontal Eye Movements
-![Horizontal Eye Movements]([https://imageurl.com/horizontal_eye_movements.png](https://github.com/abbrash/Eye-Movement-Analysis-Algorithm-Using-EOG/blob/main/horizontal.png))
+![Horizontal Eye Movements]([[https://imageurl.com/horizontal_eye_movements.png](https://github.com/abbrash/Eye-Movement-Analysis-Algorithm-Using-EOG/blob/main/horizontal.png)](https://github.com/abbrash/Eye-Movement-Analysis-Algorithm-Using-EOG/blob/main/horizontal.png))
 
 This plot displays:
 - Raw horizontal EOG signal (black)
