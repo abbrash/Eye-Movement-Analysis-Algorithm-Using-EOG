@@ -152,7 +152,7 @@ This plot displays:
 - Horizontal label signal showing saccades and fixations over time
 
 ### 3. Combined Eye Movement Labels
-![Combined Eye Movement Labels]([https://github.com/abbrash/Eye-Movement-Analysis-Algorithm-Using-EOG/blob/main/combined.png]([https://github.com/abbrash/Eye-Movement-Analysis-Algorithm-Using-EOG/blob/main/combined.png?raw=true](https://github.com/abbrash/Eye-Movement-Analysis-Algorithm-Using-EOG/blob/main/combined.jpg)))
+![Combined Eye Movement Labels]([combined](https://github.com/abbrash/Eye-Movement-Analysis-Algorithm-Using-EOG/blob/main/combined.jpg))
 
 This plot provides an overview of all detected eye movement events:
 - Blinks (level 3)
