@@ -177,7 +177,7 @@ This project was developed and tested using the EOG device from the Biomechatron
 
 - Biomechatronic Lab: [LinkedIn](https://www.linkedin.com/company/biomechatronics-laboratory)
 - Dr. Mehdi Delrobaei:
-  - [University Profile](https://wp.kntu.ac.ir/delrobaei/)
+  - [Laboratory Website](https://wp.kntu.ac.ir/delrobaei/)
   - [Google Scholar](https://scholar.google.ca/citations?user=KhR6u9oAAAAJ&hl=en)
 
 We welcome contributions that build upon this work or extend its capabilities. If you're interested in contributing, please:
