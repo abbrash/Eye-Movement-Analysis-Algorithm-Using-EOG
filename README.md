@@ -127,12 +127,40 @@ In addition to this textual output, the script generates several visualization p
 
 These visualizations offer a graphical representation of the detected eye movements over time, allowing for easy identification of patterns and events in the data.
 
-## Visualizations
+## Visualization Outputs
 
-The algorithm generates several plots:
-1. Vertical Eye Movements
-2. Horizontal Eye Movements
-3. Combined Eye Movement Labels
+The algorithm generates several plots to visualize the eye movement data and its analysis:
+
+### 1. Vertical Eye Movements
+![Vertical Eye Movements]([https://imageurl.com/vertical_eye_movements.png](https://github.com/abbrash/Eye-Movement-Analysis-Algorithm-Using-EOG/blob/main/vertical.png))
+
+This plot shows:
+- Raw vertical EOG signal (black)
+- Detected blinks (red)
+- Detected vertical saccades (green)
+- Blink threshold (dashed red line)
+- Vertical eye movement derivative with saccade threshold
+- Vertical label signal showing blinks, saccades, and fixations over time
+
+### 2. Horizontal Eye Movements
+![Horizontal Eye Movements]([https://imageurl.com/horizontal_eye_movements.png](https://github.com/abbrash/Eye-Movement-Analysis-Algorithm-Using-EOG/blob/main/horizontal.png))
+
+This plot displays:
+- Raw horizontal EOG signal (black)
+- Detected horizontal saccades (green)
+- Horizontal eye movement derivative with saccade threshold
+- Horizontal label signal showing saccades and fixations over time
+
+### 3. Combined Eye Movement Labels
+![Combined Eye Movement Labels]([https://imageurl.com/combined_eye_movement_labels.png](https://github.com/abbrash/Eye-Movement-Analysis-Algorithm-Using-EOG/blob/main/combined.png))
+
+This plot provides an overview of all detected eye movement events:
+- Blinks (level 3)
+- Saccades (level 2)
+- Fixations (level 1)
+- Undefined events (level 0)
+
+These visualizations allow for easy interpretation of the eye movement data, showing the temporal distribution of different eye events and how they relate to the raw EOG signals.
 
 ## Applications
 
@@ -167,11 +195,6 @@ We appreciate all contributions to improve and expand this project!
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- [List any individuals, labs, or institutions that contributed to or inspired this work]
-- [Mention any relevant papers or resources that were crucial in developing this algorithm]
 
 ## Contact
 
