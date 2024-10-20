@@ -26,10 +26,10 @@ The algorithm is structured into six primary stages:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/abbrash/Eye-Movement-Analysis-Algorithm-Using-EOG.git
+   git clone https://github.com/abbrash/eye-track.git
    ```
 2. Ensure you have MATLAB installed (version R2019b or later recommended).
-3. Add the Eye-Movement-Analysis-Algorithm-Using-EOG directory to your MATLAB path.
+3. Add the eye-track directory to your MATLAB path.
 
 ## Usage
 
@@ -126,7 +126,6 @@ In addition to this textual output, the script generates several visualization p
 3. Combined Eye Movement Labels
 
 These visualizations offer a graphical representation of the detected eye movements over time, allowing for easy identification of patterns and events in the data.
-```
 
 ## Visualizations
 
@@ -159,4 +158,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 [Arash Abbasi Larki] - [arash.abbasi20@gmail.com]
 
-Project Link: [https://github.com/abbrash/Eye-Movement-Analysis-Algorithm-Using-EOG](https://github.com/abbrash/Eye-Movement-Analysis-Algorithm-Using-EOG)
+Project Link: [https://github.com/abbrash/eye-track](https://github.com/abbrash/eye-track)
