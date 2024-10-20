@@ -200,6 +200,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-[Arash Abbasi Larki] - Arash.Abbasi20@gmail.com
+Email - Arash.Abbasi20@gmail.com
 
 Project Link: [https://github.com/abbrash/Eye-Movement-Analysis-Algorithm-Using-EOG](https://github.com/abbrash/Eye-Movement-Analysis-Algorithm-Using-EOG)
