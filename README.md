@@ -132,7 +132,7 @@ These visualizations offer a graphical representation of the detected eye moveme
 The algorithm generates several plots to visualize the eye movement data and its analysis:
 
 ### 1. Vertical Eye Movements
-![Vertical Eye Movements]([https://imageurl.com/vertical_eye_movements.png](https://github.com/abbrash/Eye-Movement-Analysis-Algorithm-Using-EOG/blob/main/vertical.png))
+![Vertical Eye Movements]![vertical](https://github.com/user-attachments/assets/608b01a4-c208-4590-8a1d-6c53dca9723f)
 
 This plot shows:
 - Raw vertical EOG signal (black)
@@ -143,7 +143,8 @@ This plot shows:
 - Vertical label signal showing blinks, saccades, and fixations over time
 
 ### 2. Horizontal Eye Movements
-![Horizontal Eye Movements]([[https://imageurl.com/horizontal_eye_movements.png](https://github.com/abbrash/Eye-Movement-Analysis-Algorithm-Using-EOG/blob/main/horizontal.png)](https://github.com/abbrash/Eye-Movement-Analysis-Algorithm-Using-EOG/blob/main/horizontal.png))
+![Horizontal Eye Movements]![horizontal](https://github.com/user-attachments/assets/c4e2b237-f1b1-4f49-8400-082571c1a258)
+
 
 This plot displays:
 - Raw horizontal EOG signal (black)
