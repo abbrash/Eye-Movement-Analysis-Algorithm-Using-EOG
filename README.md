@@ -26,7 +26,7 @@ The algorithm is structured into six primary stages:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/abbrash/eye-track.git
+   git clone https://github.com/abbrash/Eye-Movement-Analysis-Algorithm-Using-EOG.git
    ```
 2. Ensure you have MATLAB installed (version R2019b or later recommended).
 3. Add the eye-track directory to your MATLAB path.
@@ -141,9 +141,28 @@ The algorithm generates several plots:
 - Neurological assessments
 - Human-computer interaction research
 
-## Contributing
+## Contributing and Acknowledgments
 
-We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for details on how to submit pull requests, report issues, or request features.
+This project was developed and tested using the EOG device from the Biomechatronic Lab at K. N. Toosi University of Technology, Tehran, Iran. The work was conducted under the supervision of Dr. Mehdi Delrobaei.
+
+- Biomechatronic Lab: [LinkedIn](https://www.linkedin.com/company/biomechatronics-laboratory)
+- Dr. Mehdi Delrobaei:
+  - [University Profile](https://wp.kntu.ac.ir/delrobaei/)
+  - [Google Scholar](https://scholar.google.ca/citations?user=KhR6u9oAAAAJ&hl=en)
+
+We welcome contributions that build upon this work or extend its capabilities. If you're interested in contributing, please:
+
+1. Fork the repository
+2. Create a new branch for your feature or bug fix
+3. Commit your changes
+4. Push to the branch
+5. Create a new Pull Request
+
+For major changes, please open an issue first to discuss what you would like to change. Please ensure to update tests as appropriate and adhere to the project's coding standards.
+
+If you encounter any issues or have feature requests, please use the GitHub Issues tab to report them.
+
+We appreciate all contributions to improve and expand this project!
 
 ## License
 
@@ -158,4 +177,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 [Arash Abbasi Larki] - [arash.abbasi20@gmail.com]
 
-Project Link: [https://github.com/abbrash/eye-track](https://github.com/abbrash/eye-track)
+Project Link: [https://github.com/abbrash/Eye-Movement-Analysis-Algorithm-Using-EOG](https://github.com/abbrash/Eye-Movement-Analysis-Algorithm-Using-EOG)
